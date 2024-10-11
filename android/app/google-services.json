@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038330628156",
+    "project_id": "joseph-d-pictionis",
+    "storage_bucket": "joseph-d-pictionis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038330628156:android:af1eb2a0262aa6326f5b39",
+        "android_client_info": {
+          "package_name": "com.example.my_pic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBht052y1bWjS3FMFsi1hs6n5cXyP3_CZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
